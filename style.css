@@ -82,3 +82,12 @@ main{
     border-radius: 8px;
 }
 
+.selection{
+    background-color: white;
+}
+
+.corpo{
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 10px;
+}
