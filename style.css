@@ -10,14 +10,19 @@ body{
 .text-logo{
     margin: 0;
     font-size: 40px;
-    vertical-align: bottom;
+    vertical-align: top;
     background-color: white;
+    display: inline-block;
 }
 
 .image-logo{
     background-color: white;
 }
 
+.image{
+    width: 52px;
+    margin-left: 3%;
+}
 main{
     background-color: #F6F8F9;
     width: 50%;
@@ -31,6 +36,8 @@ main{
     border-radius: 8px;
     border: solid;
     border-color: #47ADF1;
+    display: inline-block;
+    margin-left: 2%;
 }
 
 #selezione2{
@@ -38,6 +45,8 @@ main{
     border: solid;
     padding: 7px;
     border-radius: 8px;
+    display: inline-block;
+    margin-left: 2%;
 }
 
 .editorial{
@@ -84,10 +93,12 @@ main{
 
 .selection{
     background-color: white;
+    border-radius: 14px;
 }
 
 .corpo{
     background-color: white;
     padding: 10px;
     padding-bottom: 10px;
+    border-radius: 14px;
 }
