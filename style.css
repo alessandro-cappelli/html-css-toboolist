@@ -1,0 +1,67 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
+    margin: 0;
+}
+.text-logo{
+    margin: 0;
+    font-size: 40px;
+    vertical-align: bottom;
+    background-color: white;
+}
+
+.image-logo{
+    background-color: white;
+}
+
+main{
+    background-color: #F6F8F9;
+    width: 50%;
+    margin: auto;
+}
+
+#selezione1{
+    background-color: #47ADF1;
+    font-size: 20px; color: white;
+    padding: 7px;
+    border-radius: 8px;
+    border: solid;
+    border-color: #47ADF1;
+}
+
+#selezione2{
+    font-size: 20px; color: #D6DADE;
+    border: solid;
+    padding: 7px;
+    border-radius: 8px;
+    border-color: ;
+}
+
+.editorial{
+    font-size: 10px; color: white;
+    background-color: #47ADF1;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.q1-mobile{
+    font-size: 10px; color: white;
+    background-color: #9C72E4;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.recruiting{
+    font-size: 10px; color: white;
+    background-color: #64C0A9;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.mobile{
+    
+}
