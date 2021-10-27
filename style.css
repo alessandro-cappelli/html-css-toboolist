@@ -96,12 +96,14 @@ main{
 
 .selection{
     background-color: white;
-    border-radius: 14px;
+    border-radius: 6px;
+    margin-top: 43px;
 }
 
 .corpo{
     background-color: white;
     padding: 10px;
     padding-bottom: 10px;
-    border-radius: 14px;
+    border-radius: 6px;
+    margin-top: 5px;
 }
