@@ -39,6 +39,7 @@ main{
     border-color: #47ADF1;
     display: inline-block;
     margin-left: 2%;
+    cursor: pointer;
 }
 
 #selezione2{
@@ -48,6 +49,7 @@ main{
     border-radius: 8px;
     display: inline-block;
     margin-left: 2%;
+    cursor: pointer;
 }
 
 .editorial{
