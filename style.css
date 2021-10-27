@@ -98,6 +98,7 @@ main{
     background-color: white;
     border-radius: 6px;
     margin-top: 43px;
+    padding-left: 36px;
 }
 
 .corpo{
@@ -106,4 +107,6 @@ main{
     padding-bottom: 10px;
     border-radius: 6px;
     margin-top: 5px;
+    padding-left: 46px;
+    padding-bottom: 35px;
 }
